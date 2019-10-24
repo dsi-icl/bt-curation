@@ -1,0 +1,28 @@
+{
+  "name": "breathing-together-curation-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsi-icl/breathing-together-curation-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsi-icl/breathing-together-curation-scripts/issues"
+  },
+  "homepage": "https://github.com/dsi-icl/breathing-together-curation-scripts#readme",
+  "dependencies": {
+    "csv-parse": "^4.4.3",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "nodemailer": "^6.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "12.11.5"
+  }
+}
