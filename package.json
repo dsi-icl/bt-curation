@@ -23,6 +23,6 @@
     "nodemailer": "^6.3.0"
   },
   "devDependencies": {
-    "@types/node": "12.12.30"
+    "@types/node": "12.12.31"
   }
 }
